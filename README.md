@@ -1,2 +1,7 @@
 # PatikaTemelPythonOdevi
-Liste içerisinde ne kadar derinlikte liste olursa olsun,kusursuz şekilde istenileni yapacaktır.
+Fonksiyonlara gönderilen listelerin ne kadar derinlikte olduğu önemsizdir.<br /> 
+
+## Algoritmayı Zorlamak için Kullanılan Karmaşık İnputlar
+resim1
+## Ekran Çıktıları
+resim2
