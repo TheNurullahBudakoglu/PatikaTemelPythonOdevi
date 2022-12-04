@@ -1,7 +1,7 @@
 # PatikaTemelPythonOdevi
-Fonksiyonlara gönderilen listelerin ne kadar derinlikte olduğu önemsizdir.<br /> 
+Fonksiyonlara gönderilen listelerin ne kadar derinlikte olduğu önemli olmadan,doğru sonuç verir.<br /> 
 
 ## Algoritmayı Zorlamak için Kullanılan Karmaşık İnputlar
-resim1
+[![image alt text](https://github.com/TheNurullahBudakoglu/PatikaTemelPythonOdevi/blob/main/OrnekGirdiler.png)]
 ## Ekran Çıktıları
-resim2
+[![image alt text](https://github.com/TheNurullahBudakoglu/PatikaTemelPythonOdevi/blob/main/OrnekCiktilar.png)]
